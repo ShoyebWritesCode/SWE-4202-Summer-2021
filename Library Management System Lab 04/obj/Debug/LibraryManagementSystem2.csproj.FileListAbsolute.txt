@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\bin\Debug\LibraryManagementSystem2.exe.config
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\bin\Debug\LibraryManagementSystem2.exe
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\bin\Debug\LibraryManagementSystem2.pdb
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.resArticleTypeTextBox.resources
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.exe
+C:\Users\ASUS\Desktop\OOC lab\LibraryManagementSystem2\obj\Debug\LibraryManagementSystem2.pdb
