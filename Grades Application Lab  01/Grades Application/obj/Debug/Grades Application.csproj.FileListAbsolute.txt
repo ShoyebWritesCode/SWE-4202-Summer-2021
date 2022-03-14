@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\bin\Debug\Grades Application.exe.config
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\bin\Debug\Grades Application.exe
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\bin\Debug\Grades Application.pdb
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades_Application.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades_Application.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.exe
+C:\Users\Dell\OneDrive\Desktop\Test\Grades Application\Grades Application\obj\Debug\Grades Application.pdb
