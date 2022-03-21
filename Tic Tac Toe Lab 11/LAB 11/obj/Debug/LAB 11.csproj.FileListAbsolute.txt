@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\bin\Debug\LAB 11.exe.config
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\bin\Debug\LAB 11.exe
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\bin\Debug\LAB 11.pdb
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB_11.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB_11.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.exe
+C:\Users\Dell\OneDrive\Desktop\Test\LAB 11\LAB 11\obj\Debug\LAB 11.pdb
