@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.exe.config
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.exe
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment.pdb
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment_Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\bin\Debug\StudentCourseEnrollment_Dependencies.pdb
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.csproj.CopyComplete
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.exe
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment\obj\Debug\StudentCourseEnrollment.pdb

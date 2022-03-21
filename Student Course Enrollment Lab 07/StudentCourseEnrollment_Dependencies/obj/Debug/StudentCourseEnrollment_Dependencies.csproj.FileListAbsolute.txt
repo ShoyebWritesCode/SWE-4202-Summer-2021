@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\bin\Debug\StudentCourseEnrollment_Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\bin\Debug\StudentCourseEnrollment_Dependencies.pdb
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\obj\Debug\StudentCourseEnrollment_Dependencies.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\obj\Debug\StudentCourseEnrollment_Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\obj\Debug\StudentCourseEnrollment_Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\StudentCourseEnrollment_Dependencies\obj\Debug\StudentCourseEnrollment_Dependencies.pdb
