@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd10db6c-5197-4234-b25b-d69ebe42c6fb": {
+      "ProjectGuid": "fd10db6c-5197-4234-b25b-d69ebe42c6fb",
+      "DisplayName": "Lab 02",
+      "ColorIndex": 0
+    },
+    "285fdab0-3d2e-4cc9-812c-26c5f7bcd332": {
+      "ProjectGuid": "285fdab0-3d2e-4cc9-812c-26c5f7bcd332",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
