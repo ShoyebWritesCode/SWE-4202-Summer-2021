@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\bin\Debug\Lab Final.exe.config
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\bin\Debug\Lab Final.exe
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\bin\Debug\Lab Final.pdb
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab_Final.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab_Final.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.exe
+C:\Users\Dell\OneDrive\Desktop\Test\Lab Final\Lab Final\obj\Debug\Lab Final.pdb
